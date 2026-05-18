@@ -1,0 +1,14 @@
+{
+  "name": "Hold to Speed",
+  "identifier": "com.vedant.hold-to-speed",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vedant",
+    "email": "",
+    "url": ""
+  },
+  "description": "Hold Space to play at 2x speed, just like YouTube. Release to return to normal speed.",
+  "entry": "main.js",
+  "minApiVersion": "1.1",
+  "minIINAVersion": "1.4.0"
+}
